@@ -1,0 +1,46 @@
+<!DOCTYPE html> 
+<html>
+ <head> 
+  <title>Curriculo</title> 
+  </br>
+</head>
+
+  <body> 
+<h3> <font face=>Giovana Melissa Freires de Oliveira</font><br/></h3>  <img src="Giovana.jpg" height="‬300" width="200‬"  
+<img src="Giovana.jpg" alt="Giovana" border="2"><p>
+<p><strong>Nacionalidade:</strong> Brasileira </p> <strong>Data de nascimento:</strong> 08/02/1999
+<p><strong>Estado Civil</strong>: Solteira </p>                          
+<p><strong>CEP:</strong> 06756-180 </p>
+<p><strong>Tel residencial:</strong> (11)4135-1642 <p><strong>Celular:</strong> (11)94982-5616 
+
+<h3><strong>Formação</strong></h3>
+ <li>Design na Universidade Presbiteriana Mackenzie</li> (<strong>Conclusão:</strong> 2023)</p> 
+ <li>SAGA(AXIS)- School of Graphic Design</li> (<strong>Conclusão:</strong> 2020)</p>  
+
+  <h3><strong>Competências</strong></h3>
+  <p>Gostaria de contribuir com minha vontade de sempre aprender coisas novas pois acredito que qualquer obstáculo possa ser 
+  resolvido com união, trabalho duro e troca de conhecimentos. Possuo otimismo em qualquer situação,tenho uma visão criativa 
+  do mundo, consigo trabalhar tanto em equipe quanto sozinha, não tenho medo de me impor quando necessário e meu principal 
+  objetivo é conquistar os meus sonhos profissionais.</p>
+  
+  <h3><strong>Qualificações</strong></h3>
+<li>Illustrator (Intermediário)</li> 
+<li>Photoshop (Intermediário)</li>
+<li>Premiere (Iniciante)</li>
+<li>Powerpoint ( Avançado)</li>
+<li>After Effects (Iniciante)</li>
+<li>InDesign (Iniciante)</li>
+
+<h3><strong>Idiomas</strong></h3>
+<li>Inglês (Avançado)</li>
+<li>Português (Fluente)</li>
+<li>Espanhol (Iniciante)</li>
+<li>Coreano (Iniciante)</li>
+<h3><strong>Mídias Sociais</strong></h3></p>
+ <img src="li.png" height="‬40" width="20‬" 
+<p> <a href=https://www.linkedin.com/in/giovana-melissa-freires-de-oliveira-189429169/“_blank”><strong>Linkedin:Giovana Melissa</strong> </a> </p>
+ <img src="gmail.png" height="‬40" width="20‬" 
+ <p><strong> Gmail:</strong> giovanamelissa25@gmail.com</p>
+ </head> 
+ </body>
+</html> 
